@@ -1,0 +1,26 @@
+{
+  "name": "smart-printers-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Marketing website for Smart Printers, a printing, design and signage business.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^14.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "sass": "^1.89.0",
+    "tailwindcss": "^3.4.17",
+    "vite": "^8.0.0"
+  }
+}
